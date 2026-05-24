@@ -82,3 +82,46 @@ p1{
 .img_fb img{
     border-radius: 100%;
 }
+
+
+.block5{
+    margin-top: 35px;
+    background-color: rgb(83, 82, 82);
+    width: 100%;
+    height: 290px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text5{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    padding: 30px;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.text5_1{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.text5_2{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.textt5{
+    display: flex;
+    flex-direction: column;
+}
