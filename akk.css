@@ -1,0 +1,115 @@
+header{
+    position: relative;
+    width:100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.left_menu{
+    position: absolute;
+    top: 35px;
+    left: 50px;
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+}
+
+.right_menu{
+    position: absolute;
+    top: 35px;
+    right: 50px;
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+}
+
+a{
+    color: rgb(255, 255, 255)
+}
+
+.blocklo{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.btn{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+
+/* блок 2*/
+.akk2{
+    margin-left: 30px;
+}
+
+.link_akk{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+
+.text_akk{
+    margin-top: 40px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.text2_akk{
+    padding-top: 10px;
+    font-size: 33px;
+}
+
+.btn_akk{
+    border-radius: 10px;
+    border: 3px solid rgb(98, 71, 37);
+    color: rgb(98, 71, 37);
+    font-size: 20px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+}
+
+.linkk{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* блок 3*/
+.a3{
+    margin-top: 20px;
+}
+
+p2{
+    font-size: 24px;
+    color: rgb(136, 136, 136);
+}
+
+p3{
+    font-size: 24px;
+}
+
+.name{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding: 12px;
+}
+
+.lll{
+    margin-top: -160px;
+    margin-left: 400px;
+}
