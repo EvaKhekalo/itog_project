@@ -276,3 +276,245 @@ p13 {
     background-color:rgb(98, 71, 37); 
     color: rgb(255, 255, 255);
 }
+
+
+@media (max-width: 768px){
+
+    
+    header {
+        height: 100vh;
+        flex-direction: column;
+    }
+
+    .left_menu {
+        top: 20px;
+        left: 20px;
+        flex-direction: column;
+        gap: 10px;
+        font-size: 16px;
+    }
+
+    .right_menu {
+        top: 20px;
+        right: 20px;
+        flex-direction: column;
+        gap: 10px;
+        font-size: 16px;
+    }
+
+    .blocklo img {
+        width: 280px;
+    }
+
+    .btn {
+        font-size: 22px;
+    }
+
+    .akk2{
+        margin-left: 0;
+        padding: 15px;
+    }
+
+    .linkk{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .link_akk{
+        font-size: 14px;
+    }
+
+    .text_akk{
+        margin-top: 25px;
+    }
+
+    h1{
+        font-size: 28px;
+    }
+
+    .text2_akk{
+        font-size: 20px;
+    }
+
+    .btn_akk{
+        width: 140px;
+        height: 40px;
+        margin-left: 0;
+        font-size: 15px;
+    }
+
+    .a3{
+        margin-top: 20px;
+    }
+
+    .name{
+        display: flex;
+        flex-direction: column;
+        margin-left: 15px;
+        padding: 10px;
+        gap: 8px;
+    }
+
+    
+
+    p2{
+        font-size: 15px;
+        margin: 0;
+    }
+
+    p3{
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .lll{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 0;
+        margin-top: 8px;
+        gap: 8px;
+    }
+
+    .lll img{
+        width: 180px;
+    }
+
+    .a4{
+        margin-left: 0;
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    h2{
+        font-size: 24px;
+    }
+
+    .cards{
+        padding: 0 10px;
+    }
+
+    .cardsa{
+        width: 95%;
+        height: auto;
+        margin: 20px auto;
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+    }
+
+    .left{
+        display: flex;
+        justify-content: center;
+    }
+
+    .left img{
+        width: 250px;
+        margin: 0;
+        border-radius: 20px;
+    }
+
+    .right{
+        width: 100%;
+    }
+
+    .top{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    h3{
+        margin-left: 0;
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .bottom{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 100%;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .de{
+        text-align: center;
+        align-items: center;
+        padding: 15px 0;
+    }
+
+    p13{
+        font-size: 14px;
+    }
+
+    .btnn{
+        width: 120px;
+        height: 42px;
+        font-size: 16px;
+    }
+
+    .btn-dtls{
+        width: 220px;
+        height: 50px;
+        font-size: 15px;
+        margin: 20px auto 0 auto;
+        display: block;
+    }
+
+
+    .block5{
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 25px 15px;
+    }
+
+    .text5{
+        margin-left: 0;
+        padding: 0;
+        gap: 10px;
+        font-size: 14px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .text5_1{
+        padding: 0;
+        gap: 10px;
+        font-size: 14px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .text5_2{
+        padding: 0;
+        gap: 10px;
+        font-size: 14px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .textt5{
+        align-items: center;
+    }
+
+    .img5{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .img5 img{
+        width: 50px;
+        height: 50px;
+    }
+
+}
